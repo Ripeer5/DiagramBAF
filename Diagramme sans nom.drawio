@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="gWWvXIk9LdAcCIo69xr4-1" value="Lien vers un graphique sur draw.io" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="360" y="190" width="120" height="130" as="geometry" />
+          <mxGeometry x="294" y="130" width="120" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
